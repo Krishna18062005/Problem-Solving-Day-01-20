@@ -1,5 +1,3 @@
-Based on the repository at [https://github.com/Krishna18062005/Problem-Solving-Day-01-20](https://github.com/Krishna18062005/Problem-Solving-Day-01-20), here's a suggested `README.md` to enhance its clarity and usability:
-
 ---
 
 # Problem-Solving-Day-01-20
